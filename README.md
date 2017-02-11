@@ -8,5 +8,5 @@ This project was written in Python using the TensorFlow API. The follwing file w
 ## How to run
 
 1. Install [anaconda](https://www.continuum.io/downloads)
-2. Install and activate the [carnd-term1] environment(https://github.com/udacity/CarND-Term1-Starter-Kit) conda environment
-3. run 'jupyter notebook' on the directory containing the IPython notebook and open Traffic-Sign-Classifier-Oscar_Argueta.ipynb`
+2. Install and activate the [carnd-term1](https://github.com/udacity/CarND-Term1-Starter-Kit) conda environment
+3. run ` $ jupyter notebook` on the directory containing the IPython notebook and open `Traffic-Sign-Classifier-Oscar_Argueta.ipynb`

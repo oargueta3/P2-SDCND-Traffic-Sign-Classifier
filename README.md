@@ -1,9 +1,13 @@
-# Traffic Sign Classification with Convolutioinal Neural Networks
+# Traffic Sign Classification with Convolutional Neural Networks
+
+## Objective
 
 ## Included Files
 This project was written in Python using the TensorFlow API. The follwing file was used to create an test the model.
 
 1. `Traffic-Sign-Classifier-Oscar_Argueta.ipynb`:  Used to develop and tune the model. Detailed explanations and figures can be found in this jupyter notebook
+
+## Results
 
 ## How to run
 
